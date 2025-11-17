@@ -208,8 +208,8 @@ label {
     }
 
     .contact-info {
-        flex-direction: column; /* ESTA LÍNEA APILA el nombre (.contact-name) y el número (.contact-number) */
-        gap: 0.5rem; /* Ajusta el espacio entre el nombre y el número */
+        flex-direction: column; 
+        gap: 0.5rem; 
     }
     
     .btn-icon{
