@@ -28,12 +28,9 @@ body {
 h1 {
     color: var(--text-color);
     font-size: 1.5rem;
-    font-weight:400;
+    font-weight:200;
 }
 
-.form-group{
-    margin-bottom: 15px;
-}
 
 .form-label{
     color: var(--text-color);
@@ -101,7 +98,7 @@ label {
 .contact-list {
     border: 1px solid #666;
     border-radius: 0.20rem;
-    max-height: 30vh;
+    max-height: 40vh;
     overflow-y: auto;
     overflow-x:hidden;
 }
